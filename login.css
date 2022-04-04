@@ -1,5 +1,18 @@
 body {font-family: Arial, Helvetica, sans-serif;}
 
+.bg-img {
+  /* The image used */
+  background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2F5.imimg.com%2Fdata5%2FSELLER%2FDefault%2F2021%2F12%2FIP%2FZM%2FOA%2F9075957%2Fhospital-information-system-software-500x500.jpg&imgrefurl=https%3A%2F%2Fwww.indiamart.com%2Fproddetail%2Fihis-hospital-management-system-24259935748.html&tbnid=c51YDXIQJAV8hM&vet=12ahUKEwjSivK_rfr2AhUNXWwGHQvkCYMQMyhJegQIARBu..i&docid=1C4MnS96ceWHLM&w=500&h=250&q=clinic%20management%20wallpaper&ved=2ahUKEwjSivK_rfr2AhUNXWwGHQvkCYMQMyhJegQIARBu");
+
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
 
 input[type=text], input[type=password] {
   width: 200%;
