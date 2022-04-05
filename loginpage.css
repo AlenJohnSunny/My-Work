@@ -37,15 +37,6 @@ button:hover {
   opacity: 0.8;
 }
 
-.cancelbtn {
-  padding: 10px 20px;
-  margin: 0px 0;
-  border: none;
-  cursor: pointer;
-  width: 200%;
-  background-color: #f44336;
-}
-
 .imgcontainer {
   text-align: center;
   margin: 24px 0 12px 0;
