@@ -70,7 +70,8 @@ span.psw {
 }
 
 .container{
-	padding: -20px;
+	marging-top:20px;
+	padding: 5px;
 	width:36%;
 	margin-left:30%;
 	margin-right:25%;
